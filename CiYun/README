@@ -1,0 +1,4 @@
+CiYun目录下为采用python生成中文词云完整代码。
+
+环境：python3.7、wordcloud、jieba;
+编译IDE：pycharm
